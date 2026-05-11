@@ -1,0 +1,29 @@
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\bin\Debug\net8.0\DrivegameProjectFinal.exe
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\bin\Debug\net8.0\DrivegameProjectFinal.deps.json
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\bin\Debug\net8.0\DrivegameProjectFinal.runtimeconfig.json
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\bin\Debug\net8.0\DrivegameProjectFinal.dll
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\bin\Debug\net8.0\DrivegameProjectFinal.pdb
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.AssemblyInfoInputs.cache
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.AssemblyInfo.cs
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.dll
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\obj\Debug\net8.0\refint\DrivegameProjectFinal.dll
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.pdb
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.genruntimeconfig.cache
+C:\Users\ROCCSPORT\Desktop\DrivegameProjectFinal\obj\Debug\net8.0\ref\DrivegameProjectFinal.dll
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\bin\Debug\net8.0\DrivegameProjectFinal.exe
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\bin\Debug\net8.0\DrivegameProjectFinal.deps.json
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\bin\Debug\net8.0\DrivegameProjectFinal.runtimeconfig.json
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\bin\Debug\net8.0\DrivegameProjectFinal.dll
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\bin\Debug\net8.0\DrivegameProjectFinal.pdb
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.AssemblyInfoInputs.cache
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.AssemblyInfo.cs
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.sourcelink.json
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.dll
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\obj\Debug\net8.0\refint\DrivegameProjectFinal.dll
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.pdb
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\obj\Debug\net8.0\DrivegameProjectFinal.genruntimeconfig.cache
+C:\Users\ROCCSPORT\Desktop\PROGRAMMING ONE\DrivegameProjectFinal\obj\Debug\net8.0\ref\DrivegameProjectFinal.dll
